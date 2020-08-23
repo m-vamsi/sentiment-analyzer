@@ -1,2 +1,2 @@
 # sentiment-analyzer
-Twotter data analysis for sentiment analyzer
+Twitter data analysis for sentiment analyzer
